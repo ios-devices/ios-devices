@@ -1,0 +1,172 @@
+[
+    {
+        "name": "iPod Touch 5",
+        "identifiers": [
+            "iPod5,1"
+        ]
+    },
+    {
+        "name": "iPod Touch 6",
+        "identifiers": [
+            "iPod7,1"
+        ]
+    },
+    {
+        "name": "iPhone 4",
+        "identifiers": [
+            "iPhone3,1",
+            "iPhone3,2",
+            "iPhone3,3"
+        ]
+    },
+    {
+        "name": "iPhone 4s",
+        "identifiers": [
+            "iPhone4,1"
+        ]
+    },
+    {
+        "name": "iPhone 5",
+        "identifiers": [
+            "iPhone5,1",
+            "iPhone5,2"
+        ]
+    },
+    {
+        "name": "iPhone 5c",
+        "identifiers": [
+            "iPhone5,3",
+            "iPhone5,4"
+        ]
+    },
+    {
+        "name": "iPhone 5s",
+        "identifiers": [
+            "iPhone6,1",
+            "iPhone6,2"
+        ]
+    },
+    {
+        "name": "iPhone 6",
+        "identifiers": [
+            "iPhone7,2"
+        ]
+    },
+    {
+        "name": "iPhone 6 Plus",
+        "identifiers": [
+            "iPhone7,1"
+        ]
+    },
+    {
+        "name": "iPhone 6s",
+        "identifiers": [
+            "iPhone8,1"
+        ]
+    },
+    {
+        "name": "iPhone 6s Plus",
+        "identifiers": [
+            "iPhone8,2"
+        ]
+    },
+    {
+        "name": "iPhone SE",
+        "identifiers": [
+            "iPhone8,4"
+        ]
+    },
+    {
+        "name": "iPad 2",
+        "identifiers": [
+            "iPad2,1",
+            "iPad2,2",
+            "iPad2,3",
+            "iPad2,4"
+        ]
+    },
+    {
+        "name": "iPad 3",
+        "identifiers": [
+            "iPad3,1",
+            "iPad3,2",
+            "iPad3,3"
+        ]
+    },
+    {
+        "name": "iPad 4",
+        "identifiers": [
+            "iPad3,4",
+            "iPad3,5",
+            "iPad3,6"
+        ]
+    },
+    {
+        "name": "iPad Air",
+        "identifiers": [
+            "iPad4,1",
+            "iPad4,2",
+            "iPad4,3"
+        ]
+    },
+    {
+        "name": "iPad Air 2",
+        "identifiers": [
+            "iPad5,3",
+            "iPad5,4"
+        ]
+    },
+    {
+        "name": "iPad Mini",
+        "identifiers": [
+            "iPad2,5",
+            "iPad2,6",
+            "iPad2,7"
+        ]
+    },
+    {
+        "name": "iPad Mini 2",
+        "identifiers": [
+            "iPad4,4",
+            "iPad4,5",
+            "iPad4,6"
+        ]
+    },
+    {
+        "name": "iPad Mini 3",
+        "identifiers": [
+            "iPad4,7",
+            "iPad4,8",
+            "iPad4,9"
+        ]
+    },
+    {
+        "name": "iPad Mini 4",
+        "identifiers": [
+            "iPad5,1",
+            "iPad5,2"
+        ]
+    },
+    {
+        "name": "iPad Pro",
+        "identifiers": [
+            "iPad6,3",
+            "iPad6,4",
+            "iPad6,7",
+            "iPad6,8"
+        ]
+    },
+    {
+        "name": "Apple TV",
+        "identifiers": [
+            "AppleTV5,3"
+        ]
+    },
+    {
+        "name": "Simulator",
+        "identifiers": [
+            "i386",
+            "x86_64"
+        ]
+    }
+]
