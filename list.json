@@ -71,6 +71,20 @@
         ]
     },
     {
+        "name": "iPhone 7",
+        "identifiers": [
+            "iPhone9,1",
+            "iPhone9,3"
+        ]
+    },
+    {
+        "name": "iPhone 7 Plus",
+        "identifiers": [
+            "iPhone9,2",
+            "iPhone9,4"
+        ]
+    },
+    {
         "name": "iPhone SE",
         "identifiers": [
             "iPhone8,4"
