@@ -100,7 +100,7 @@
         ]
     },
     {
-        "name": "iPad 3",
+        "name": "iPad (3rd generation)",
         "identifiers": [
             "iPad3,1",
             "iPad3,2",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "iPad 4",
+        "name": "iPad (4th generation)",
         "identifiers": [
             "iPad3,4",
             "iPad3,5",
@@ -168,6 +168,13 @@
             "iPad6,4",
             "iPad6,7",
             "iPad6,8"
+        ]
+    },
+    {
+        "name": "iPad (5th generation)",
+        "identifiers": [
+            "iPad6,11",
+            "iPad6,12"
         ]
     },
     {
