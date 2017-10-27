@@ -85,6 +85,27 @@
         ]
     },
     {
+        "name": "iPhone 8",
+        "identifiers": [
+            "iPhone10,1",
+            "iPhone10,4"
+        ]
+    },
+    {
+        "name": "iPhone 8 Plus",
+        "identifiers": [
+            "iPhone10,2",
+            "iPhone10,5"
+        ]
+    },
+    {
+        "name": "iPhoneX",
+        "identifiers": [
+            "iPhone10,3",
+            "iPhone10,6"
+        ]
+    },
+    {
         "name": "iPhone SE",
         "identifiers": [
             "iPhone8,4"
