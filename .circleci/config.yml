@@ -1,0 +1,26 @@
+version: 2.1
+
+jobs:
+  update:
+    docker:
+      - image: circleci/python:3.8
+    steps:
+      - run:
+          command: |
+            poetry run python gen.py;
+            git diff --quiet &&
+            git diff --staged --quiet ||
+            git commit -am "Update" &&
+            git push
+
+workflows:
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 1-31 * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - update
