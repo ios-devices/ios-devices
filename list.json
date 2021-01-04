@@ -203,6 +203,30 @@
         ]
     },
     {
+        "name": "iPhone 12 Mini",
+        "identifiers": [
+            "iPhone13,1"
+        ]
+    },
+    {
+        "name": "iPhone 12",
+        "identifiers": [
+            "iPhone13,2"
+        ]
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "identifiers": [
+            "iPhone13,3"
+        ]
+    },
+    {
+        "name": "iPhone 12 Pro Max",
+        "identifiers": [
+            "iPhone13,4"
+        ]
+    },
+    {
         "name": "1st Gen iPod",
         "identifiers": [
             "iPod1,1"
@@ -487,25 +511,25 @@
         ]
     },
     {
-        "name": "iPad Pro 11 inch (WiFi)",
+        "name": "iPad Pro 11 inch 3rd Gen (WiFi)",
         "identifiers": [
             "iPad8,1"
         ]
     },
     {
-        "name": "iPad Pro 11 inch (1TB, WiFi)",
+        "name": "iPad Pro 11 inch 3rd Gen (1TB, WiFi)",
         "identifiers": [
             "iPad8,2"
         ]
     },
     {
-        "name": "iPad Pro 11 inch (WiFi+Cellular)",
+        "name": "iPad Pro 11 inch 3rd Gen (WiFi+Cellular)",
         "identifiers": [
             "iPad8,3"
         ]
     },
     {
-        "name": "iPad Pro 11 inch (1TB, WiFi+Cellular)",
+        "name": "iPad Pro 11 inch 3rd Gen (1TB, WiFi+Cellular)",
         "identifiers": [
             "iPad8,4"
         ]
@@ -535,13 +559,13 @@
         ]
     },
     {
-        "name": "iPad Pro 11 inch 2nd Gen (WiFi)",
+        "name": "iPad Pro 11 inch 4th Gen (WiFi)",
         "identifiers": [
             "iPad8,9"
         ]
     },
     {
-        "name": "iPad Pro 11 inch 2nd Gen (WiFi+Cellular)",
+        "name": "iPad Pro 11 inch 4th Gen (WiFi+Cellular)",
         "identifiers": [
             "iPad8,10"
         ]
@@ -580,6 +604,30 @@
         "name": "iPad Air 3rd Gen",
         "identifiers": [
             "iPad11,4"
+        ]
+    },
+    {
+        "name": "iPad 8th Gen (WiFi)",
+        "identifiers": [
+            "iPad11,6"
+        ]
+    },
+    {
+        "name": "iPad 8th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad11,7"
+        ]
+    },
+    {
+        "name": "iPad air 4th Gen (WiFi)",
+        "identifiers": [
+            "iPad13,1"
+        ]
+    },
+    {
+        "name": "iPad air 4th Gen (WiFi+Celular)",
+        "identifiers": [
+            "iPad13,2"
         ]
     },
     {

@@ -3,8 +3,7 @@ import json
 
 url = (
     "https://gist.githubusercontent.com/adamawolf/"
-    "3048717/raw/19b4cc0627ff669f1c4589324b9cb45e4948ec01/"
-    "Apple_mobile_device_types.txt"
+    "3048717/raw/Apple_mobile_device_types.txt"
 )
 
 if __name__ == "__main__":
