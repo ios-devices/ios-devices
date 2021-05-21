@@ -3,8 +3,9 @@ version: 2.1
 jobs:
   update:
     docker:
-      - image: circleci/python:3.8
+      - image: cimg/python:3.8
     steps:
+      - checkout
       - run:
           command: |
             poetry run python gen.py;
@@ -17,7 +18,7 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 0 1-31 * *"
+          cron: "30 3 * * *"
           filters:
             branches:
               only:
