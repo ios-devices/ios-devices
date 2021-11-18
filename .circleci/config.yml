@@ -3,11 +3,12 @@ version: 2.1
 jobs:
   update:
     docker:
-      - image: cimg/python:3.8
+      - image: cimg/python:3.9
     steps:
       - checkout
       - run:
           command: |
+            poetry install &&
             poetry run python gen.py;
             git diff --quiet &&
             git diff --staged --quiet ||
