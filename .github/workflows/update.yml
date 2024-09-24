@@ -12,14 +12,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: |
+          pipx install poetry
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "poetry"
 
-      - name: Install dependencies
+      - name: Install python deps
         run: |
-          pip install poetry
           poetry install
 
       - name: Run script and commit changes

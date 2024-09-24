@@ -252,6 +252,84 @@
         ]
     },
     {
+        "name": "iPhone SE 3rd Gen",
+        "identifiers": [
+            "iPhone14,6"
+        ]
+    },
+    {
+        "name": "iPhone 14",
+        "identifiers": [
+            "iPhone14,7"
+        ]
+    },
+    {
+        "name": "iPhone 14 Plus",
+        "identifiers": [
+            "iPhone14,8"
+        ]
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "identifiers": [
+            "iPhone15,2"
+        ]
+    },
+    {
+        "name": "iPhone 14 Pro Max",
+        "identifiers": [
+            "iPhone15,3"
+        ]
+    },
+    {
+        "name": "iPhone 15",
+        "identifiers": [
+            "iPhone15,4"
+        ]
+    },
+    {
+        "name": "iPhone 15 Plus",
+        "identifiers": [
+            "iPhone15,5"
+        ]
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "identifiers": [
+            "iPhone16,1"
+        ]
+    },
+    {
+        "name": "iPhone 15 Pro Max",
+        "identifiers": [
+            "iPhone16,2"
+        ]
+    },
+    {
+        "name": "iPhone 16 Pro",
+        "identifiers": [
+            "iPhone17,1"
+        ]
+    },
+    {
+        "name": "iPhone 16 Pro Max",
+        "identifiers": [
+            "iPhone17,2"
+        ]
+    },
+    {
+        "name": "iPhone 16",
+        "identifiers": [
+            "iPhone17,3"
+        ]
+    },
+    {
+        "name": "iPhone 16 Plus",
+        "identifiers": [
+            "iPhone17,4"
+        ]
+    },
+    {
         "name": "1st Gen iPod",
         "identifiers": [
             "iPod1,1"
@@ -685,7 +763,9 @@
             "iPad13,4",
             "iPad13,5",
             "iPad13,6",
-            "iPad13,7"
+            "iPad13,7",
+            "iPad16,3",
+            "iPad16,4"
         ]
     },
     {
@@ -695,6 +775,60 @@
             "iPad13,9",
             "iPad13,10",
             "iPad13,11"
+        ]
+    },
+    {
+        "name": "iPad Air 5th Gen (WiFi)",
+        "identifiers": [
+            "iPad13,16"
+        ]
+    },
+    {
+        "name": "iPad Air 5th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad13,17"
+        ]
+    },
+    {
+        "name": "iPad 10th Gen",
+        "identifiers": [
+            "iPad13,18",
+            "iPad13,19"
+        ]
+    },
+    {
+        "name": "iPad Pro 11 inch 4th Gen",
+        "identifiers": [
+            "iPad14,3",
+            "iPad14,4"
+        ]
+    },
+    {
+        "name": "iPad Pro 12.9 inch 6th Gen",
+        "identifiers": [
+            "iPad14,5",
+            "iPad14,6"
+        ]
+    },
+    {
+        "name": "iPad Air 6th Gen",
+        "identifiers": [
+            "iPad14,8",
+            "iPad14,9"
+        ]
+    },
+    {
+        "name": "iPad Air 7th Gen",
+        "identifiers": [
+            "iPad14,10",
+            "iPad14,11"
+        ]
+    },
+    {
+        "name": "iPad Pro 12.9 inch 7th Gen",
+        "identifiers": [
+            "iPad16,5",
+            "iPad16,6"
         ]
     },
     {
@@ -808,25 +942,29 @@
     {
         "name": "Apple Watch SE 40mm case (GPS)",
         "identifiers": [
-            "Watch5,9"
+            "Watch5,9",
+            "Watch6,10"
         ]
     },
     {
         "name": "Apple Watch SE 44mm case (GPS)",
         "identifiers": [
-            "Watch5,10"
+            "Watch5,10",
+            "Watch6,11"
         ]
     },
     {
         "name": "Apple Watch SE 40mm case (GPS+Cellular)",
         "identifiers": [
-            "Watch5,11"
+            "Watch5,11",
+            "Watch6,12"
         ]
     },
     {
         "name": "Apple Watch SE 44mm case (GPS+Cellular)",
         "identifiers": [
-            "Watch5,12"
+            "Watch5,12",
+            "Watch6,13"
         ]
     },
     {
@@ -875,6 +1013,66 @@
         "name": "Apple Watch Series 7 45mm case (GPS+Cellular)",
         "identifiers": [
             "Watch6,9"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 8 41mm case (GPS)",
+        "identifiers": [
+            "Watch6,14"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 8 45mm case (GPS)",
+        "identifiers": [
+            "Watch6,15"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 8 41mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch6,16"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 8 45mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch6,17"
+        ]
+    },
+    {
+        "name": "Apple Watch Ultra",
+        "identifiers": [
+            "Watch6,18"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 9 41mm case (GPS)",
+        "identifiers": [
+            "Watch7,1"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 9 45mm case (GPS)",
+        "identifiers": [
+            "Watch7,2"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 9 41mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,3"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 9 45mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,4"
+        ]
+    },
+    {
+        "name": "Apple Watch Ultra 2",
+        "identifiers": [
+            "Watch7,5"
         ]
     }
 ]
