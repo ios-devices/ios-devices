@@ -1,10 +1,8 @@
-import requests
 import json
 
-url = (
-    "https://gist.githubusercontent.com/adamawolf/"
-    "3048717/raw/Apple_mobile_device_types.txt"
-)
+import requests
+
+url = "https://gist.githubusercontent.com/adamawolf/3048717/raw/Apple_mobile_device_types.txt"
 
 if __name__ == "__main__":
     lines = requests.get(url).text.split("\n")
@@ -21,12 +19,9 @@ if __name__ == "__main__":
 
     nd = []
     for k, v in d.items():
-        nd.append({
-            "name": k,
-            "identifiers": v
-        })
+        nd.append({"name": k, "identifiers": v})
 
     jsonStr = json.dumps(nd, indent=4)
 
-    with open("list.json", mode='w') as f:
+    with open("list.json", mode="w") as f:
         f.write(jsonStr)
