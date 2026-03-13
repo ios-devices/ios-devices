@@ -1,0 +1,26 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "schedule:monthly"
+  ],
+  "minimumReleaseAge": "3 days",
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "GitHub Actions",
+      "automerge": true
+    },
+    {
+      "matchManagers": ["poetry"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "groupName": "Python dependencies (non-major)",
+      "automerge": true
+    },
+    {
+      "matchManagers": ["poetry"],
+      "matchUpdateTypes": ["major"],
+      "groupName": null
+    }
+  ]
+}
