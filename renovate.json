@@ -4,6 +4,7 @@
     "config:recommended",
     "schedule:monthly"
   ],
+  "dependencyDashboard": false,
   "minimumReleaseAge": "3 days",
   "packageRules": [
     {
