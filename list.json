@@ -330,6 +330,36 @@
         ]
     },
     {
+        "name": "iPhone 16e",
+        "identifiers": [
+            "iPhone17,5"
+        ]
+    },
+    {
+        "name": "iPhone 17 Pro",
+        "identifiers": [
+            "iPhone18,1"
+        ]
+    },
+    {
+        "name": "iPhone 17 Pro Max",
+        "identifiers": [
+            "iPhone18,2"
+        ]
+    },
+    {
+        "name": "iPhone 17",
+        "identifiers": [
+            "iPhone18,3"
+        ]
+    },
+    {
+        "name": "iPhone Air",
+        "identifiers": [
+            "iPhone18,4"
+        ]
+    },
+    {
         "name": "1st Gen iPod",
         "identifiers": [
             "iPod1,1"
@@ -522,7 +552,7 @@
         ]
     },
     {
-        "name": "4th Gen iPad mini (WiFi+Cellular)",
+        "name": "iPad mini 4 (WiFi+Cellular)",
         "identifiers": [
             "iPad5,2"
         ]
@@ -583,9 +613,14 @@
         ]
     },
     {
-        "name": "iPad Pro 10.5-inch 2nd Gen",
+        "name": "iPad Pro 10.5-inch 2nd Gen (WiFi)",
         "identifiers": [
-            "iPad7,3",
+            "iPad7,3"
+        ]
+    },
+    {
+        "name": "iPad Pro 10.5-inch 2nd Gen (WiFi+Cellular)",
+        "identifiers": [
             "iPad7,4"
         ]
     },
@@ -664,13 +699,15 @@
     {
         "name": "iPad Pro 11 inch 4th Gen (WiFi)",
         "identifiers": [
-            "iPad8,9"
+            "iPad8,9",
+            "iPad14,3"
         ]
     },
     {
         "name": "iPad Pro 11 inch 4th Gen (WiFi+Cellular)",
         "identifiers": [
-            "iPad8,10"
+            "iPad8,10",
+            "iPad14,4"
         ]
     },
     {
@@ -692,7 +729,7 @@
         ]
     },
     {
-        "name": "iPad mini 5th Gen",
+        "name": "iPad mini 5th Gen (WiFi+Cellular)",
         "identifiers": [
             "iPad11,2"
         ]
@@ -704,7 +741,7 @@
         ]
     },
     {
-        "name": "iPad Air 3rd Gen",
+        "name": "iPad Air 3rd Gen (WiFi+Cellular)",
         "identifiers": [
             "iPad11,4"
         ]
@@ -763,9 +800,7 @@
             "iPad13,4",
             "iPad13,5",
             "iPad13,6",
-            "iPad13,7",
-            "iPad16,3",
-            "iPad16,4"
+            "iPad13,7"
         ]
     },
     {
@@ -790,44 +825,122 @@
         ]
     },
     {
-        "name": "iPad 10th Gen",
+        "name": "iPad 10th Gen (WiFi)",
         "identifiers": [
-            "iPad13,18",
+            "iPad13,18"
+        ]
+    },
+    {
+        "name": "iPad 10th Gen (WiFi+Cellular)",
+        "identifiers": [
             "iPad13,19"
         ]
     },
     {
-        "name": "iPad Pro 11 inch 4th Gen",
+        "name": "iPad Pro 12.9 inch 6th Gen (WiFi)",
         "identifiers": [
-            "iPad14,3",
-            "iPad14,4"
+            "iPad14,5"
         ]
     },
     {
-        "name": "iPad Pro 12.9 inch 6th Gen",
+        "name": "iPad Pro 12.9 inch 6th Gen (WiFi+Cellular)",
         "identifiers": [
-            "iPad14,5",
             "iPad14,6"
         ]
     },
     {
-        "name": "iPad Air 6th Gen",
+        "name": "iPad Air 11 inch 6th Gen (WiFi)",
         "identifiers": [
-            "iPad14,8",
+            "iPad14,8"
+        ]
+    },
+    {
+        "name": "iPad Air 11 inch 6th Gen (WiFi+Cellular)",
+        "identifiers": [
             "iPad14,9"
         ]
     },
     {
-        "name": "iPad Air 7th Gen",
+        "name": "iPad Air 13 inch 6th Gen (WiFi)",
         "identifiers": [
-            "iPad14,10",
+            "iPad14,10"
+        ]
+    },
+    {
+        "name": "iPad Air 13 inch 6th Gen (WiFi+Cellular)",
+        "identifiers": [
             "iPad14,11"
         ]
     },
     {
-        "name": "iPad Pro 12.9 inch 7th Gen",
+        "name": "iPad Air 11-inch 7th Gen (WiFi)",
         "identifiers": [
-            "iPad16,5",
+            "iPad15,3"
+        ]
+    },
+    {
+        "name": "iPad Air 11-inch 7th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad15,4"
+        ]
+    },
+    {
+        "name": "iPad Air 13-inch 7th Gen (WiFi)",
+        "identifiers": [
+            "iPad15,5"
+        ]
+    },
+    {
+        "name": "iPad Air 13-inch 7th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad15,6"
+        ]
+    },
+    {
+        "name": "iPad 11th Gen (WiFi)",
+        "identifiers": [
+            "iPad15,7"
+        ]
+    },
+    {
+        "name": "iPad 11th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad15,8"
+        ]
+    },
+    {
+        "name": "iPad mini 7th Gen (WiFi)",
+        "identifiers": [
+            "iPad16,1"
+        ]
+    },
+    {
+        "name": "iPad mini 7th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad16,2"
+        ]
+    },
+    {
+        "name": "iPad Pro 11 inch 5th Gen (WiFi)",
+        "identifiers": [
+            "iPad16,3"
+        ]
+    },
+    {
+        "name": "iPad Pro 11 inch 5th Gen (WiFi+Cellular)",
+        "identifiers": [
+            "iPad16,4"
+        ]
+    },
+    {
+        "name": "iPad Pro 12.9 inch 7th Gen (WiFi)",
+        "identifiers": [
+            "iPad16,5"
+        ]
+    },
+    {
+        "name": "iPad Pro 12.9 inch 7th Gen (WiFi+Cellular)",
+        "identifiers": [
             "iPad16,6"
         ]
     },
@@ -1073,6 +1186,84 @@
         "name": "Apple Watch Ultra 2",
         "identifiers": [
             "Watch7,5"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 10 42mm case (GPS)",
+        "identifiers": [
+            "Watch7,8"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 10 46mm case (GPS)",
+        "identifiers": [
+            "Watch7,9"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 10 42mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,10"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 10 46mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,11"
+        ]
+    },
+    {
+        "name": "Apple Watch Ultra 3 49mm case",
+        "identifiers": [
+            "Watch7,12"
+        ]
+    },
+    {
+        "name": "Apple Watch SE 3 40mm case",
+        "identifiers": [
+            "Watch7,13"
+        ]
+    },
+    {
+        "name": "Apple Watch SE 3 44mm case",
+        "identifiers": [
+            "Watch7,14"
+        ]
+    },
+    {
+        "name": "Apple Watch SE 3 40mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,15"
+        ]
+    },
+    {
+        "name": "Apple Watch SE 3 44mm case (GPS+Cellular)",
+        "identifiers": [
+            "Watch7,16"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 11 42mm case",
+        "identifiers": [
+            "Watch7,17"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 11 46mm case",
+        "identifiers": [
+            "Watch7,18"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 11 42mm case (GPS+Celllular)",
+        "identifiers": [
+            "Watch7,19"
+        ]
+    },
+    {
+        "name": "Apple Watch Series 11 46mm case (GPS+Celllular)",
+        "identifiers": [
+            "Watch7,20"
         ]
     }
 ]
