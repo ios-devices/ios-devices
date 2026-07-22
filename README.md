@@ -3,5 +3,5 @@
 ## Generate list.json
 
 ```sh
-poetry run python gen.py
+uv run python gen.py
 ```

@@ -5,7 +5,7 @@
     "schedule:monthly"
   ],
   "dependencyDashboard": false,
-  "minimumReleaseAge": "3 days",
+  "minimumReleaseAge": "7 days",
   "packageRules": [
     {
       "matchManagers": ["github-actions"],
@@ -13,13 +13,13 @@
       "automerge": true
     },
     {
-      "matchManagers": ["poetry"],
+      "matchManagers": ["pep621"],
       "matchUpdateTypes": ["minor", "patch"],
       "groupName": "Python dependencies (non-major)",
       "automerge": true
     },
     {
-      "matchManagers": ["poetry"],
+      "matchManagers": ["pep621"],
       "matchUpdateTypes": ["major"],
       "groupName": null
     }
